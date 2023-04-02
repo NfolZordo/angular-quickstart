@@ -95,8 +95,29 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
-            ],
+              {
+                "input": "src/styles.css",
+                "bundleName": "styles",
+                "allowedCommonJsDependencies": [],
+                "output": "dist/angular-quickstart/styles.css",
+                "extract": true,
+                "inject": true,
+                "sourceMap": true,
+                "vendorChunk": false,
+                "optimization": true,
+                "budgets": [
+                    {
+                        "type": "initial",
+                        "maximumWarning": "2mb",
+                        "maximumError": "5mb"
+                    },
+                    {
+                        "type": "anyComponentStyle",
+                        "maximumWarning": "4kb",
+                        "maximumError": "4kb"
+                    }
+                ]
+            }            ],
             "scripts": []
           }
         }
