@@ -41,7 +41,7 @@ export const students: IStudent[] = [
         "firstName": "Максим",
         "lastName": "Комар",
         "middleName": "Леонідович",
-        "photo": "assets/komar/header/photo.png",
+        "photo": "assets/18601.png",
         "url": "/komar"
     },
     {
@@ -62,7 +62,7 @@ export const students: IStudent[] = [
         "firstName": "Анастасія",
         "lastName": "Панько",
         "middleName": "Павлівна",
-        "photo": "assets/18601.png",
+        "photo": "assets/panko/AP.jpg",
         "url": "/panko"
     },
     {
