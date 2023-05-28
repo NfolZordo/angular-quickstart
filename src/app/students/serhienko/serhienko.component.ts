@@ -7,10 +7,4 @@ import { Component } from '@angular/core';
 })
 export class SerhienkoComponent {
 
-  playVideo() {
-    let video = document.getElementById('myVideo') as HTMLVideoElement;
-    video.play();
-  }
-  
 }
-
