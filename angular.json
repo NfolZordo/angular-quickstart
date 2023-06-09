@@ -30,8 +30,7 @@
               "src/styles.css",
               "src/demo-styling.css"
             ],
-            "scripts": [],
-            "baseHref": "/zadorozhnyi/"
+            "scripts": []
           },
           "configurations": {
             "production": {
