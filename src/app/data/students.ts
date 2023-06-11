@@ -40,7 +40,7 @@ export const students: IStudent[] = [
         "middleName": "Васильович",
         "photo": "assets/zador/images/Thador.jpg",
         "url": "/zadorozhnyi",
-        "audioFilePath": "assets/audio-students/student-theme.mp3"
+        "audioFilePath": "assets/audio-students/zador-theme.mp3"
     },
     {
         "firstName": "Максим",
@@ -118,9 +118,9 @@ export const students: IStudent[] = [
         "firstName": "Янош",
         "lastName": "Строганов",
         "middleName": "Романович",
-        "photo": "assets/18601.png",
+        "photo": "assets/stroganov/avatar.jpg",
         "url": "/stroganov",
-        "audioFilePath": "assets/audio-students/student-theme.mp3"
+        "audioFilePath": "assets/audio-students/92elm_Opal.mp3"
     },
     {
         "firstName": "В'ячеслав",
