@@ -96,7 +96,7 @@ export const students: IStudent[] = [
         "middleName": "Сергійович",
         "photo": "assets/serhienko/images/Serhienko.jpg",
         "url": "/serhienko",
-        "audioFilePath": "assets/audio-students/student-theme.mp3"
+        "audioFilePath": "assets/audio-students/serhienko-theme.mp3"
     },
     {
         "firstName": "Максим",
@@ -126,7 +126,7 @@ export const students: IStudent[] = [
         "firstName": "В'ячеслав",
         "lastName": "Цибенко",
         "middleName": "Олександрович",
-        "photo": "assets/tsybenko/photo.png",
+        "photo": "assets/18601.png",
         "url": "/tsybenko",
         "audioFilePath": "assets/audio-students/student-theme.mp3"
     },
